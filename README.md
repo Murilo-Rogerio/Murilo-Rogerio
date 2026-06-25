@@ -1,4 +1,7 @@
+<div align="center"> 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Murilo%20Rog%C3%A9rio&fontSize=50&fontColor=fff&animation=fadeIn)
+
+</div>
 
 <div align="center">
 
